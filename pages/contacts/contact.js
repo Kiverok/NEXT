@@ -1,5 +1,7 @@
+import Heading from "../../components/Heading";
+
 const Contact = () => {
-    return <h1>Jack</h1>
+    return <Heading text="Jack" />
   }
   
   export default Contact;
